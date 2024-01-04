@@ -6,4 +6,4 @@ The data requires extensive cleaning, this process is shown in the cleaning code
 
 I implemented three models, a basic linear regression model meant to serve as a baseline, the XGBoost regressor model, and a nueral network.
 
-The XGB model performed the best on the test data. Unfortunately, I can no longer find the Kaggle submission to report the RMSE.
+The XGB model performed the best on the test data - leading to an RMSE of 0.14353
